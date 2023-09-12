@@ -1,4 +1,4 @@
-view: nested_capa_view {
+view: dev_nested_capa_view {
   sql_table_name: `synthetic-eon-241312.rls_testing_globus.NESTED_CAPA_VIEW` ;;
 
   dimension: aging {

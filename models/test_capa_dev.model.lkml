@@ -9,8 +9,8 @@ include: "/views/**/*.view"
 #   max_cache_age: "1 hour"
 # }
 
-explore: nested_capa_view {
-  group_label: "Capa Explore"
+explore: dev_nested_capa_view {
+  group_label: "Dev Capa Explore"
   description: "This explore all dimensions related to capa report "
   hidden: no
   case_sensitive:  no
