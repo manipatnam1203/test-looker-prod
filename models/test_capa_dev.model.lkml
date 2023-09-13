@@ -10,8 +10,8 @@ include: "/views/**/*.view"
 # }
 
 explore: dev_nested_capa_view {
-  group_label: "Dev Capa Explore Testing Mk2"
-  description: "This explore all dimensions related to capa report to Test v2"
+  group_label: "Dev Capa Explore Testing Mk3 "
+  description: "This explore all dimensions related to capa report to Test v3"
   hidden: no
   case_sensitive:  no
   persist_for: "5 minutes"
